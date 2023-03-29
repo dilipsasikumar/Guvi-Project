@@ -1,0 +1,23 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #612cb8;
+}
+
+.image img{
+    height: 30em;
+    width: 55em;
+    margin-left: -5em;
+}
+
+.flex1{
+    display: flex;
+}
+
+.fronttext{
+    margin-top: 10em;
+    width: 100%;
+}
+
+.fronttext h1{
+    margin-left: -6px;
+}
